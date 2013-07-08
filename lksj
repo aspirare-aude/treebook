@@ -1,0 +1,27 @@
+[33mcommit a1dd82cf143a208adbbcdbcd0a964535e9a6952c[m
+Author: Tomas O Mahony <tomasmahony@gmail.com>
+Date:   Mon Jul 8 15:45:50 2013 +0100
+
+    updated front end for the new authentication system
+    
+    Added simple form
+    Updated several forms to bootstrap/simple_form
+    Added login'logout/register/profile links to our nav
+
+[33mcommit a0798b4a52d7080e5fff089f09132030fe1adf9e[m
+Author: Tomas O Mahony <tomasmahony@gmail.com>
+Date:   Mon Jul 8 13:09:47 2013 +0100
+
+    hello
+
+[33mcommit a4dd29624c2dd39b6f1761bf1905653b04b3b890[m
+Author: Tomas O Mahony <tomasmahony@gmail.com>
+Date:   Mon Jul 8 12:22:24 2013 +0100
+
+    added bootstrap and layout
+
+[33mcommit b029826004d3c1e45db92230dae7d948a54b3f6e[m
+Author: Tomas O Mahony <tomasmahony@gmail.com>
+Date:   Mon Jul 8 10:18:38 2013 +0100
+
+    created a rails app and added status updates
